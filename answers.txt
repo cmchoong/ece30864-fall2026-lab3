@@ -1,2 +1,3 @@
 (a) Pros of Aglie development include flexible requirements and breaking down the problem into smaller steps
 The Cons of Aglie development include lacking a strict and well known end date and needed to spend more time manging the different small steps and what is needed for each of them
+(b) The Scrum Master manages all scrum related tasks (JIRA, sprints, etc), while the Product Owner directs the team and handles stakeholders and releases
