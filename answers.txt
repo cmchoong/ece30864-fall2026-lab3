@@ -1,3 +1,13 @@
 (a) Pros of Aglie development include flexible requirements and breaking down the problem into smaller steps
 The Cons of Aglie development include lacking a strict and well known end date and needed to spend more time manging the different small steps and what is needed for each of them
 (b) The Scrum Master manages all scrum related tasks (JIRA, sprints, etc), while the Product Owner directs the team and handles stakeholders and releases
+(c) The 3 types of meetings that happen during a sprint cycle are Sprint Planning Meeting, Daily Scrum Meeting, and Sprint Retrospective Meeting. What needs to be discussed in each meeting is as follows:
+Sprint Planning Meeting:
+1. Determine what needs to be done in the Sprint
+2. Move story points to the Sprint and assgin them to the team
+Daily Scrum Meeting:
+1. Discuss work completed so far
+2. Discuss plans for continued work and blockers
+Sprint Retrospective Meeting:
+1. Discuss what work is completed
+2. Move any incomplete work to the backlog and complete Sprint
