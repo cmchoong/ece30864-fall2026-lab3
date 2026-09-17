@@ -11,3 +11,4 @@ Daily Scrum Meeting:
 Sprint Retrospective Meeting:
 1. Discuss what work is completed
 2. Move any incomplete work to the backlog and complete Sprint
+(d) An Epic is a large section of work that is made up of Stories. A Story is a smaller system requirement that can be put in a couple sentences. A Bug is an issue or flaw currently in the system that needs fixed. A Task is a general requirement needed for the project.
